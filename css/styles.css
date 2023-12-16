@@ -70,11 +70,6 @@ img {
     padding-bottom: 120px;
 }
 
-
-
-
-
-
 .page-header {
     width: 1158px;
     margin-right: auto;
@@ -132,9 +127,6 @@ body {
     position: relative;
     color: #404bbf;
 }
-
-
-
 
 
 .navigation {
@@ -196,10 +188,6 @@ body {
 .contacts:focus {
     color: #404bbf;
 }
-
-
-
-
 
 
 
@@ -266,11 +254,6 @@ body {
 
 
 
-
-
-
-
-
 .benefits-list {
     font-size: 20px;
     font-weight: 500;
@@ -315,11 +298,6 @@ body {
 .logo-icon {
     margin: 24px 100px;
 }
-
-
-
-
-
 
 
 
@@ -412,12 +390,6 @@ body {
 }
 
 
-
-
-
-
-
-
 .portfolio {
     text-transform: capitalize;
     text-align: center;
@@ -504,11 +476,6 @@ body {
 .overlay:hover .overlay-text {
     transform: translateY(0%);
 }
-
-
-
-
-
 
 
 .layers {
